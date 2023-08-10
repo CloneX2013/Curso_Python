@@ -1,2 +1,2 @@
-# Curso_Python
-Códigos do Curso de Python
+# Códigos do curso de Python!
+Neste repositório irei postar códigos que foram elaborados em meu curso sobre linguagem Python.
